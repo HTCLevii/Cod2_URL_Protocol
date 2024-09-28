@@ -12,4 +12,5 @@ This Go application sets up a URL protocol handler for "Call of Duty 2" (CoD2) o
 ## Prerequisites
 
 - Go (version 1.11 or later) installed on your machine.
+- `golang.org/x/sys/windows/registry` package.
 - Windows operating system.
